@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>KotsaGay</title>
+	</head>
+	<body>
+		<h1>Hello Gay</h1>
+	</body>
+</html>
