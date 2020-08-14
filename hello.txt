@@ -4,6 +4,9 @@
 		<title>KotsaGay</title>
 	</head>
 	<body>
+		<style>
+			body{ background-color:green}
+		</style>
 		<h1>Hello Gay</h1>
 		<h2>Something</h2>
 	</body>
